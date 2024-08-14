@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "99083580527",
+    "project_id": "whater-3d513",
+    "storage_bucket": "whater-3d513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99083580527:android:8e5fe665017b2804b5099a",
+        "android_client_info": {
+          "package_name": "com.example.the_water"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99083580527-o42d2vq34jo4hfb9u7jb1lknsfr2s6mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWoaeN5xtLrgg0tvtCF3KlDPfQOMjmtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99083580527-o42d2vq34jo4hfb9u7jb1lknsfr2s6mn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99083580527-2uml969o8p1cu735c4rhnufgh38539qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whaterProject1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99083580527:android:78ea9b26698c7cc7b5099a",
+        "android_client_info": {
+          "package_name": "com.example.whater_project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99083580527-o42d2vq34jo4hfb9u7jb1lknsfr2s6mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWoaeN5xtLrgg0tvtCF3KlDPfQOMjmtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99083580527-o42d2vq34jo4hfb9u7jb1lknsfr2s6mn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99083580527-2uml969o8p1cu735c4rhnufgh38539qe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whaterProject1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
